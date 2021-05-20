@@ -1,7 +1,7 @@
 /*----------------------------------------*/
 /*----- Basic typo -----*/
 /*----------------------------------------*/
-body { color: rgba(19, 15, 64, 0.7); background-color: #fff; }
+body { color: rgba(218, 220, 224, 1); background-color: #fff; }
 h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #130f40; }
 a { color: #130f40; }
 a:hover { color: #5352ed; }
@@ -62,7 +62,7 @@ a:hover { color: #5352ed; }
 .btn-blue { background-color: #458558; border-color: #458558; color: #fff; }
 .btn-blue:hover { background-color: #458558; border-color: #458558; color: #fff; }
 /*-- green --*/
-.btn-green { background-color: #458558; border-color: #4585583; color: #fff; }
+.btn-green { background-color: #bd9705; border-color: #bd9705; color: #fff; }
 .btn-green:hover { background-color: #2458558; border-color: #458558; color: #fff; }
 /*-- grey with bottom border --*/
 .btn-grey { background-color: #9593a9; border-color: #9593a9; border-bottom-color: #130f40; color: #fff; }
